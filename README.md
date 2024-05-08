@@ -1,6 +1,6 @@
 # ATM System
 
-###Personal Project as a beginner of Java
+### Personal Project as a beginner of Java
 
 ## Description
 
